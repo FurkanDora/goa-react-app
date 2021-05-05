@@ -2,8 +2,8 @@
   "health": "Can",
   "mana": "Mana",
   "damage": "Hasar",
-  "defense": "Defans",
-  "crit_chance": "Kritik Şansı",
-  "crit_damage": "Kritik Hasarı",
-  "ability_haste": "Yetenek Hızı"
+  "defense": "Savunma",
+  "crit_chance": "Kritik şansı",
+  "crit_damage": "Kritik hasarı",
+  "ability_haste": "Bekleme süresi"
 }
